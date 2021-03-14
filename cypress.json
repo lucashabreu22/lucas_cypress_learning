@@ -1,0 +1,4 @@
+{
+    "watchForFileChanges": false,
+    "baseUrl": "https://wcaquino.me/cypress/"
+}
